@@ -13,7 +13,7 @@ A simple digital profile card built using HTML and CSS.
 - CSS3 (Flexbox)
 
 ## 📸 Preview
-![Digital Card Preview](assets/preview.png)
+![Digital Card Preview](preview.png)
 
 ## 📚 What I Learned
 - Flexbox layout
